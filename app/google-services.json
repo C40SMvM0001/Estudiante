@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66654080401",
+    "firebase_url": "https://fbestudiante.firebaseio.com",
+    "project_id": "fbestudiante",
+    "storage_bucket": "fbestudiante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66654080401:android:b7ada56229496286",
+        "android_client_info": {
+          "package_name": "com.android.firebase.estudiante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66654080401-nti5mbjn9e3gddug9p5l86uvt6c4cq7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.firebase.estudiante",
+            "certificate_hash": "d80b69aefe9dfd1220bf7c6aa2a75e1426c0e791"
+          }
+        },
+        {
+          "client_id": "66654080401-d01hnanovke7ufeirmnj3t03t06imd5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfwSbbyR8A35Pfiji-qEHn4IYuPXd6NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66654080401-d01hnanovke7ufeirmnj3t03t06imd5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
