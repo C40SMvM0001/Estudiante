@@ -8,7 +8,7 @@ public class Estudiante {
     private String Correo;
     private String Telefono;
     private String Ci;
-
+//asd
     public Estudiante() {
     }
 
